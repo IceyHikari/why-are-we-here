@@ -8,11 +8,13 @@ I was the overall game designer and producer of this AIGC-assisted turn-based ta
 
 To make the animation usable, the team needed more than a better prompt. We locked the approved character reference, divided the action into timed phases, selected a chroma-key background that contrasted with the character, and established file names and asset identifiers for the extracted frames. Those frames then had to become Unity AnimationClips and connect correctly to unit data and combat logic. The technical implementation was shared work, but as producer I had to define the requirements, coordinate decisions across disciplines, and judge whether the result still served the intended experience.
 
+Programming gives me a way to turn those judgements into conditions that can be inspected and tested. Does every frame refer to the same unit? Does the attack land at the moment the combat system applies damage? What happens when an asset is missing or an AI output breaks the expected format? If I cannot read the logic behind these questions, I can describe the desired mood but cannot reliably specify the work.
+
 This is why I am not learning programming to compete with AI at producing code. I am learning it to understand how an artistic intention becomes a system that another person can actually experience.
 
 ## Constraints Are Part of Authorship
 
-Dylan Beattie presents programming as a creative medium, not merely a technical chore (Beattie, 2018). My project led me to a related position. In an AIGC workflow, creative control exists not only in an image I draw or a script I type. It also exists in the constraints I define: what must remain consistent, what may vary, how an output is evaluated, and what happens when it fails.
+[Dylan Beattie presents programming as a creative medium](https://www.youtube.com/watch?v=6avJHaC3C2U), not merely a technical chore (Beattie, 2018). My project led me to a related position. In an AIGC workflow, creative control exists not only in an image I draw or a script I type. It also exists in the constraints I define: what must remain consistent, what may vary, how an output is evaluated, and what happens when it fails.
 
 The same problem appeared at the scale of the whole game. Our factions could not be collections of visually appealing cultural symbols. Their architecture, music, unit abilities and tactical identities needed to express the same design logic. A generic "desert fantasy" image might appear suitable for the Arabian faction while flattening its history into a stereotype. As the lead designer, I had to decide which references supported the world we were building and which ones merely looked familiar.
 
@@ -20,7 +22,7 @@ For me, this is where empathy enters technical practice. I understand games as a
 
 ## AI Is a Collaborator, Not an Authority
 
-My experience does not support the simple claim that AI is incapable of creativity. Si et al. (2025) found that LLM-generated research ideas were judged more novel than ideas written by human experts, although they were slightly weaker in feasibility; the researchers also identified problems with diversity and self-evaluation. This evidence changed my initial position. The important distinction is not human originality versus machine imitation. It is between generating a candidate and taking responsibility for evaluating, developing and integrating it.
+My experience does not support the simple claim that AI is incapable of creativity. In a [large-scale study of research ideation](https://openreview.net/forum?id=M23dTGWCZy), Si et al. (2025) found that LLM-generated ideas were judged more novel than ideas written by human experts, although they were slightly weaker in feasibility; the researchers also identified problems with diversity and self-evaluation. This evidence changed my initial position. The important distinction is not human originality versus machine imitation. It is between generating a candidate and taking responsibility for evaluating, developing and integrating it.
 
 That is how I now use AI in both creative practice and research. I may ask it to propose variations, expand search terms or help me interpret unfamiliar material. I do not treat fluency as proof. I compare outputs with the project intention, inspect the original sources, and make the final decision myself. In the game project, AI expanded what our small team could attempt. It did not decide what deserved to remain in the work.
 
@@ -28,7 +30,7 @@ That is how I now use AI in both creative practice and research. I may ask it to
 
 I want to become a producer who can connect creative direction, research, art pipelines and technical implementation. A producer may not write every script, but must be able to question a technical proposal, recognise when a prototype only appears to work, and communicate constraints across disciplines. Without programming knowledge, I could approve an image. With it, I can ask how that image becomes data, behaviour and player experience.
 
-Some manual coding tasks may become obsolete during my career. That changes what programming knowledge is for; it does not make the knowledge irrelevant. AI can expand what I can make. Empathy determines what is worth making. Programming connects the two.
+Some manual coding tasks may become obsolete during my career. That changes what programming knowledge is for; it does not make the knowledge irrelevant. **AI can expand what I can make. Empathy determines what is worth making. Programming connects the two.**
 
 ## References
 
