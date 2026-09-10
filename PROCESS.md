@@ -33,3 +33,11 @@ I rejected the broad claim that AI is incapable of producing novel ideas. It was
 I expanded the argument from technical judgement to artistic responsibility. I kept the idea that AI can be a valuable collaborator rather than an opponent: it helps me explore materials and express intentions that would otherwise be difficult to prototype quickly.
 
 I added empathy as a central part of my position. I do not claim that AI can never produce emotional-looking content. My argument is that I remain responsible for deciding what the game is trying to express, what human experience it represents, and how players are invited to feel. I connected this claim to my final-year AIGC game project and described my role as overall designer and producer, while keeping the distinction between my direction and shared technical implementation.
+
+### 10 September 2026 — replacing general claims with a concrete incident
+
+I reviewed the draft against the assignment criteria and the instructor's emphasis on concrete experience. With AI assistance, I compared the general opening with several incidents documented in my final-year report. I selected the Ifrit animation because it makes the essay's central distinction visible: a generated image can look successful while still failing as a game asset.
+
+I kept the specific production constraints that I could support from the project: a locked character reference, timed action phases, a contrasting chroma-key background, stable file naming, and integration with Unity data. I also clarified that I directed and coordinated the pipeline as overall designer and producer, while the technical implementation belonged to the team rather than to me alone.
+
+I rejected the earlier opening about games in general because it delayed my own experience. I also removed a separate paragraph about AI-assisted literature searching because it distracted from the central game-production example. Finally, I checked both cited sources against their original pages and updated the research-ideation paper from its 2024 preprint to its 2025 ICLR publication record.
