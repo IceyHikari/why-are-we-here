@@ -24,6 +24,8 @@ For me, this is where empathy enters technical practice. I understand games as a
 
 My experience does not support the simple claim that AI is incapable of creativity. In a [large-scale study of research ideation](https://openreview.net/forum?id=M23dTGWCZy), Si et al. (2025) found that LLM-generated ideas were judged more novel than ideas written by human experts, although they were slightly weaker in feasibility; the researchers also identified problems with diversity and self-evaluation. This evidence changed my initial position. The important distinction is not human originality versus machine imitation. It is between generating a candidate and taking responsibility for evaluating, developing and integrating it.
 
+That responsibility also resembles the [human-AI interaction guidelines](https://doi.org/10.1145/3290605.3300233) developed by Amershi et al. (2019), which emphasise supporting human correction, control and feedback when an AI system is wrong. In my pipeline, the human review gates were therefore part of the design, not evidence that the AI had simply failed.
+
 That is how I now use AI in both creative practice and research. I may ask it to propose variations, expand search terms or help me interpret unfamiliar material. I do not treat fluency as proof. I compare outputs with the project intention, inspect the original sources, and make the final decision myself. In the game project, AI expanded what our small team could attempt. It did not decide what deserved to remain in the work.
 
 ## Why I Am Here
@@ -33,6 +35,8 @@ I want to become a producer who can connect creative direction, research, art pi
 Some manual coding tasks may become obsolete during my career. That changes what programming knowledge is for; it does not make the knowledge irrelevant. **AI can expand what I can make. Empathy determines what is worth making. Programming connects the two.**
 
 ## References
+
+Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S., Bennett, P. N., Inkpen, K., Teevan, J., Kikin-Gil, R., & Horvitz, E. (2019). Guidelines for human-AI interaction. In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems* (Article 3, pp. 1–13). Association for Computing Machinery. https://doi.org/10.1145/3290605.3300233
 
 Beattie, D. (2018, November 15). *The art of code* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
 
