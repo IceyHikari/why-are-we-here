@@ -4,7 +4,7 @@
 
 While specifying the Arabian faction for my final-year project, I had to decide how an animation of an Ifrit, a fire spirit, could move through an AIGC pipeline and become a usable Unity asset. Its fire-dominated palette suggested a pure green `#00B140` background for cleaner chroma-key processing. This was a small production decision, but it exposed a larger problem: asking AI for an impressive animation was not the same as specifying an asset that our game could reliably use.
 
-I was the overall game designer and producer of this AIGC-assisted turn-based tactics game. My work crossed worldbuilding, faction design, units, heroes, spells, art direction, music specifications and production coordination. The shared production pipeline had already been demonstrated end to end with Han-Tang assets. The Arabian asset set, however, was still partly at the concept and production-specification stage. That distinction matters: I should not present a planned Arabian asset as a completed result.
+I was the overall game designer and producer of this AIGC-assisted turn-based tactics game. My work crossed faction design, art direction, technical specifications and production coordination. The shared production pipeline had already been demonstrated end to end with Han-Tang assets. The Arabian asset set, however, was still partly at the concept and production-specification stage. I should not present a planned asset as a completed result.
 
 For the Arabian work, I defined how an approved character reference should remain consistent across actions, how motion should be divided into timed phases, how background colours should support clean chroma-key processing, and how extracted frames should follow stable file names and asset identifiers. The intended final steps were Unity AnimationClip assembly and connection to unit data. The programming framework and complete Unity battle prototype were shared team responsibilities, not my individual implementation. My responsibility as producer was to specify the Arabian module, coordinate decisions across disciplines, and judge whether the work remained technically usable and culturally coherent.
 
@@ -14,7 +14,7 @@ This is why I am not learning programming to compete with AI at producing code. 
 
 ## Constraints Are Part of Authorship
 
-[Dylan Beattie presents programming as a creative medium](https://www.youtube.com/watch?v=6avJHaC3C2U), not merely a technical chore (Beattie, 2018). My project led me to a related position. In an AIGC workflow, creative control exists not only in an image I draw or a script I type. It also exists in the constraints I define: what must remain consistent, what may vary, how an output is evaluated, and what happens when it fails.
+[Dylan Beattie presents programming as a creative medium](https://www.youtube.com/watch?v=6avJHaC3C2U), not merely a technical chore (Beattie, 2018). My project led me to a related position. In an AIGC workflow, creative control also exists in the constraints I define: what must remain consistent, what may vary, how an output is evaluated, and what happens when it fails.
 
 The same problem appeared at the scale of the whole game. Our factions could not be collections of visually appealing cultural symbols. Their architecture, music, unit abilities and tactical identities needed to express the same design logic. A generic "desert fantasy" image might appear suitable for the Arabian faction while flattening its history into a stereotype. As the lead designer, I had to decide which references supported the world we were building and which ones merely looked familiar.
 
@@ -26,11 +26,11 @@ My experience does not support the simple claim that AI is incapable of creativi
 
 That responsibility also resembles the [human-AI interaction guidelines](https://doi.org/10.1145/3290605.3300233) developed by Amershi et al. (2019), which emphasise supporting human correction, control and feedback when an AI system is wrong. In my pipeline, the human review gates were therefore part of the design, not evidence that the AI had simply failed.
 
-That is how I now use AI in both creative practice and research. I may ask it to propose variations, expand search terms or help me interpret unfamiliar material. I do not treat fluency as proof. I compare outputs with the project intention, inspect the original sources, and make the final decision myself. In the game project, AI expanded what our small team could attempt. It did not decide what deserved to remain in the work.
+That is how I use AI in creative practice and research. I ask it to propose variations, expand search terms or help interpret unfamiliar material, but I do not treat fluency as proof. I compare outputs with the project intention, inspect original sources and make the final decision. AI expanded what our small team could attempt. It did not decide what deserved to remain.
 
 ## Why I Am Here
 
-I want to become a producer who can connect creative direction, research, art pipelines and technical implementation. A producer may not write every script, but must be able to question a technical proposal, recognise when a prototype only appears to work, and communicate constraints across disciplines. Without programming knowledge, I could approve an image. With it, I can ask how that image becomes data, behaviour and player experience.
+I want to become a producer who connects creative direction, research, art pipelines and technical implementation. I may not write every script, but I must be able to question a technical proposal, recognise when a prototype only appears to work, and communicate constraints across disciplines. Without programming knowledge, I could approve an image. With it, I can ask how that image becomes data, behaviour and player experience.
 
 Some manual coding tasks may become obsolete during my career. That changes what programming knowledge is for; it does not make the knowledge irrelevant. **AI can expand what I can make. Empathy determines what is worth making. Programming connects the two.**
 
