@@ -2,9 +2,9 @@
 
 ## Why I Still Need to Program
 
-While specifying the Arabian faction for my final-year project, I had to decide how an animation of an Ifrit, a fire spirit, could move through an AIGC pipeline and become a usable Unity asset. Its fire-dominated palette suggested a pure green `#00B140` background for cleaner chroma-key processing. This was a small production decision, but it exposed a larger problem: asking AI for an impressive animation was not the same as specifying an asset that our game could reliably use.
+While specifying the Arabian faction for my final-year project, I had to decide how an animation of an Ifrit, a fire spirit, could move through an AIGC pipeline and become a usable Unity asset. I specified a pure green `#00B140` background to separate its fire-dominated palette during chroma-key processing. This was a small production decision, but it exposed a larger problem: asking AI for an impressive animation was not the same as specifying an asset that our game could reliably use.
 
-I was the overall game designer and producer of this AIGC-assisted turn-based tactics game. My work crossed faction design, art direction, technical specifications and production coordination. The shared production pipeline had already been demonstrated end to end with Han-Tang assets. The Arabian asset set, however, was still partly at the concept and production-specification stage. I should not present a planned asset as a completed result.
+I was the overall game designer and producer of this AIGC-assisted turn-based tactics game. My work spanned faction design, art direction, technical specifications and production coordination. The shared production pipeline had already been demonstrated end to end with Han-Tang assets. The Arabian asset set, however, was still partly at the concept and production-specification stage. I should not present a planned asset as a completed result.
 
 For the Arabian work, I defined how an approved character reference should remain consistent across actions, how motion should be divided into timed phases, how background colours should support clean chroma-key processing, and how extracted frames should follow stable file names and asset identifiers. The intended final steps were Unity AnimationClip assembly and connection to unit data. The programming framework and complete Unity battle prototype were shared team responsibilities, not my individual implementation. My responsibility as producer was to specify the Arabian module, coordinate decisions across disciplines, and judge whether the work remained technically usable and culturally coherent.
 
@@ -32,7 +32,7 @@ That is how I use AI in creative practice and research. I ask it to propose vari
 
 I want to become a producer who connects creative direction, research, art pipelines and technical implementation. I may not write every script, but I must be able to question a technical proposal, recognise when a prototype only appears to work, and communicate constraints across disciplines. Without programming knowledge, I could approve an image. With it, I can ask how that image becomes data, behaviour and player experience.
 
-Some manual coding tasks may become obsolete during my career. That changes what programming knowledge is for; it does not make the knowledge irrelevant. **AI can expand what I can make. Empathy determines what is worth making. Programming connects the two.**
+Some manual coding tasks may become obsolete during my career. That changes what programming knowledge is for; it does not make the knowledge irrelevant. I need enough programming knowledge to turn creative intent into testable specifications and to judge whether an implementation serves that intent. **AI can expand what I can make. Empathy determines what is worth making. Programming connects the two.**
 
 ## References
 

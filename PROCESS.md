@@ -53,3 +53,9 @@ I rejected the more dramatic anecdote and rewrote the opening around a decision 
 I then reviewed whether two references were sufficient for the claims being made. I rejected adding several loosely related sources simply to make the bibliography look longer. I added one verified CHI paper, Amershi et al. (2019), because its guidance on human correction, control and feedback directly supports the review gates in my AIGC pipeline. The source was checked through its ACM DOI and Microsoft Research publication record before inclusion.
 
 For the final polish on 11 September, I cut repeated lists and qualifications rather than adding another idea. I kept the contrast between approving an image and understanding how it becomes data, behaviour and player experience because it answers the assignment question in terms of my intended role. The revision reduced the risk of crossing the word limit and made the conclusion more direct without changing the evidence or ownership boundaries established earlier.
+
+### 12 September 2026 — final agency and language check
+
+I reread the essay for sentences that hid my decisions behind passive wording. I changed the Ifrit sentence from “the palette suggested” to “I specified” because the production choice was part of my documented Arabian asset specification. I also replaced an awkward phrase and made the conclusion more explicit about the level of programming knowledge I need as a producer: enough to translate creative intent into testable specifications and evaluate the resulting implementation.
+
+I did not add another example or source. The existing example already supports the argument, and the three references each have a clear role. Adding material only to make the submission appear larger would weaken its focus and risk the word limit.
